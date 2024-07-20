@@ -1,0 +1,12 @@
+NodeA 3
+NodeB 2
+NodeC 2
+NodeD 1
+NodeE 3
+NodeF 2
+NodeG 4
+NodeH 3
+
+NodeA NodeB NodeE NodeH NodeC NodeD NodeG NodeF 
+
+NodeA NodeB NodeC NodeG NodeE NodeD NodeF NodeH 
