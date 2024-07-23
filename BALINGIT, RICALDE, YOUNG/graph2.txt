@@ -1,9 +1,0 @@
-8
-NodeA	NodeB	NodeE	NodeH	-1
-NodeB	NodeA	NodeC	-1
-NodeC	NodeB	NodeG	-1
-NodeD	NodeE	-1
-NodeE	NodeA	NodeD	NodeG	-1
-NodeF	NodeG	NodeH	-1
-NodeG	NodeC	NodeE	NodeF	NodeH	-1
-NodeH	NodeA	NodeF	NodeG	-1
