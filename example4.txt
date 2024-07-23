@@ -1,0 +1,22 @@
+21
+Q W E -1
+W Q R T -1
+R P L W -1
+P R -1
+L F R -1
+F L X -1
+X F C -1
+C X -1
+T K W -1
+K D T -1
+D B K -1
+B D -1
+E Q Y U -1
+Y E H J -1
+H Y -1
+J Y -1
+U E G -1
+G S U -1
+S A G -1
+A S Z -1
+Z A -1

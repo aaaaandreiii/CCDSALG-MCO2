@@ -1,0 +1,14 @@
+13
+H A P Y -1
+A B T S H -1
+B A G -1
+G B K -1
+K G -1
+T A D -1
+D T L -1
+L D -1
+S A -1
+P H -1
+Y H I X -1
+X Y -1
+I Y -1

@@ -1,0 +1,17 @@
+H 3
+A 4
+B 2
+G 2
+K 1
+T 2
+D 2
+L 1
+S 1
+P 1
+Y 3
+X 1
+I 1
+
+H A P Y B T S X I G D K L 
+
+H A B G K T D L S P Y X I 

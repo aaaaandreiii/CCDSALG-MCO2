@@ -1,0 +1,25 @@
+Q 2
+W 3
+R 3
+P 1
+L 2
+F 2
+X 2
+C 1
+T 2
+K 2
+D 2
+B 1
+E 3
+Y 3
+H 1
+J 1
+U 2
+G 2
+S 2
+A 2
+Z 1
+
+Q W E R T Y U P L K H J G F D S X B A C Z 
+
+Q W R P L F X C T K D B E Y H J U G S A Z 
