@@ -75,11 +75,14 @@ int main() {
 
     printf("Input filename: ");
     scanf("%s", inputFilename);
-    printf("Input start vertex for the traversal: ");
-    scanf("%s", startVertex);
+    
+ 
 
     FILE *file = fopen(inputFilename, "r");
-    if (file) {
+    if (file!=NULL) {
+    	printf("Input start vertex for the traversal: ");
+    	scanf("%s", startVertex);
+    	
         int numVertices;
         fscanf(file, "%d", &numVertices);
         fclose(file);
